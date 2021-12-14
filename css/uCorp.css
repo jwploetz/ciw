@@ -1,6 +1,4 @@
 /* STYLE SHEET FOR INDEX.HTM */
-
-
 @font-face {
   font-family: oregonfont;
   src: url("../media/oregon book.ttf");
@@ -36,7 +34,7 @@ footer {
 }
 
 h1 {
-/*  text-shadow: 3px 3px 3px #888888;  */
+  text-shadow: 3px 3px 3px #888888;
   margin-top: 5px; 
   margin-bottom: 0px; 
 }
