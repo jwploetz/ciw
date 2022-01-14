@@ -77,6 +77,22 @@ section {
   box-shadow: 5px 5px 5px #888888;
 }
 
+#img-rotate {
+    -ms-transform: rotate(345deg); /* Microsoft Edge */
+    -webkit-transform: rotate(345deg); /* Chrome and Safari */
+    transform: rotate(345deg);
+}
+#video-rotate {
+    -ms-transform: rotate(15deg); /* Microsoft Edge */
+    -webkit-transform: rotate(15deg); /* Chrome and Safari */
+    transform: rotate(15deg);
+}
+
+#logo-rotate {
+    -webkit-transform: rotateY(180deg); /* Safari and Chrome */
+    transform: rotateY(180deg);
+}
+
 #drop-menu {
     width: 150px;
     cursor: pointer;
