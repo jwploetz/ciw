@@ -68,6 +68,8 @@ section {
   background-image: url("../media/globe.png"); 
   background-repeat: no-repeat;
   background-size: contain;
+  resize: both;
+  overflow: auto;
 }
 
 .floatright {
