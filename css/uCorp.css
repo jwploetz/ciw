@@ -48,6 +48,12 @@ h1 {
   margin-bottom: 0px; 
 }
 
+h2 {
+  text-shadow: 3px 3px 3px #888888;
+  margin-top: 5px; 
+  margin-bottom: 0px; 
+}
+
 header {
   border-bottom-style: solid;
   border-bottom-width: 5px;
